@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seekho anime assignment</string>
+    <string name="title_activity_anime_list">AnimeListActivity</string>
+    <string name="title_activity_anime_detail_list">AnimeDetailListActivity</string>
+</resources>
